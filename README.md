@@ -1,10 +1,10 @@
 # Overview
 
-This time, I made a student managing system with python. As a database, I used sql. I had a experince to do sql and python before, but it was my first time to connect the those two system. Therefore I thought it would be hard, but comparing with my thought it was easier. To connect the sql and python, it was really interesting to using mysql on the python code. 
+On this occasion, I developed a student management system using Python, incorporating SQL as the underlying database. While I had prior experience working with both SQL and Python independently, this project marked my inaugural attempt at seamlessly integrating these two systems. Initially apprehensive about the perceived complexity, I found the process surprisingly straightforward. The utilization of MySQL within the Python code for establishing the connection between SQL and Python was particularly fascinating.
 
-Frist, I made GUI to see the place to my code is worked. In the GUI, I can input the student's inforamtion I made a 4 array so that I can add student ID, student first name, last name, and years. After input the informations, I can do add, serch, or delete. If I do add, the information save on the sql database. And by clicking the serch, the saved data in the mysql is possible to see in either GUI or mysql. For the delete the informations, to easily delete if the student ID is matching, it made me possible to delete the data. 
+To enhance the user interface, I implemented a Graphical User Interface (GUI) to monitor the execution of my code. Within the GUI, I devised a four-array structure enabling the input of student information, including student ID, first name, last name, and academic years. Post data input, the system facilitated operations such as addition, search, or deletion. Upon choosing to add information, the data was seamlessly stored in the SQL database. Furthermore, the search functionality allowed the retrieval of saved data either through the GUI or directly from MySQL. For deletion purposes, a streamlined process was devised, enabling the effortless removal of data matching the specified student ID.
 
-It was really good chance to learn about the sql and python more. It was possible to save the data to the database.
+This project provided a valuable opportunity for deepening my understanding of SQL and Python integration, culminating in the successful storage of data within the database.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
@@ -14,7 +14,7 @@ Employing MySQL for database management, I systematically input and organize stu
 
 # Development Environment
 
-I used the python and made a student managing system. If I adding new student, the data is going to the sql so that I can save the data in the sql. Also, to use sql, I used mysql. 
+I employed Python to develop a student management system, incorporating functionality to seamlessly add new student data, which is subsequently stored in an SQL database. In the process of leveraging SQL, I specifically utilized MySQL to facilitate the efficient management and storage of student information within the database.
 
 # Useful Websites
 
