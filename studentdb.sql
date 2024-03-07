@@ -1,0 +1,6 @@
+DROP DATABASE IF EXISTS studentDB;
+CREATE DATABASE studentDB;
+
+USE studentDB;
+SELECT * 
+FROM userTable;
