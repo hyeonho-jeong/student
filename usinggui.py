@@ -97,7 +97,7 @@ listFrame.pack(side=BOTTOM, fill=BOTH, expand=1)
 Label(edtFrame, text="Student ID").grid(row=0, column=0, padx=5, pady=5)
 Label(edtFrame, text="First Name").grid(row=0, column=1, padx=5, pady=5)
 Label(edtFrame, text="Last Name").grid(row=0, column=2, padx=5, pady=5)
-Label(edtFrame, text="Year Old").grid(row=0, column=3, padx=5, pady=5)
+Label(edtFrame, text="Age").grid(row=0, column=3, padx=5, pady=5)
 
 # Entry widgets
 edt1 = Entry(edtFrame, width=10)

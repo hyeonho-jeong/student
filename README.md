@@ -6,7 +6,7 @@ To enhance the user interface, I implemented a Graphical User Interface (GUI) to
 
 This project provided a valuable opportunity for deepening my understanding of SQL and Python integration, culminating in the successful storage of data within the database.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/MSyjUa4BM24)
 
 # Relational Database
 
